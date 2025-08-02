@@ -1,7 +1,6 @@
 
 # Library-Management-System
 
-Youtube Link :- https://www.youtube.com/watch?v=bqpamkKqzPo
 
 This is Library Management project which uses JAVA (GUI and Backend) and MYSQL (Database).
 
@@ -62,9 +61,7 @@ Record Table
 
 One all this tables have been created, clone the project, open in netbeans, run the project.
 
-Report has been uploaded into repository and Youtube Description, you can refer it.
 
-Youtube Link :- https://www.youtube.com/watch?v=bqpamkKqzPo
 
 
 
